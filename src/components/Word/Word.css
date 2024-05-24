@@ -1,0 +1,9 @@
+.Word{
+    display: flex;
+    justify-content: center;
+}
+
+.Word .word-output{
+    letter-spacing: 10px;
+    font-size: 50px;
+}

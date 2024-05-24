@@ -1,0 +1,21 @@
+.GameField{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.GameField .group-buttons{
+    width: 50%;
+    display: flex;
+    
+    flex-wrap: wrap;
+    padding-top: 20px;
+
+}
+
+.GameField .group-buttons button{
+    width: 40px;
+    height: 40px;
+    margin: 20px;
+}
+

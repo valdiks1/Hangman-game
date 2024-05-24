@@ -1,0 +1,12 @@
+[
+    
+        {
+            "category" : "Animals",
+            "array" : ["ant", "baboon", "badger", "bat", "bear", "beaver", "camel", "cat", "clam", "cobra", "cougar"]
+        },
+        {
+            "category" : "Countries",
+            "array" : ["Argentina", "Australia", "Austria", "Belgium", "Bulgaria", "Denmark", "Egypt", "Estonia", "Georgia", "Israel", "Latvia"]
+        }
+    
+]
