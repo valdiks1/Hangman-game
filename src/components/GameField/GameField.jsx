@@ -6,7 +6,7 @@ export default function GameField({ answer, word, wordOut }) {
     const [lives, setLives] = useState(7);
     const [disabledButtons, setDisabledButtons] = useState({});
 
-    // Ensure all buttons are enabled when the component is first rendered
+    
     useEffect(() => {
         setDisabledButtons({});
         setLives(7);
